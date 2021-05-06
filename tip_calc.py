@@ -1,4 +1,4 @@
-bill_amount = int(input("Total bill amount? "))
+bill_amount = float(input("Total bill amount? "))
 level_of_service = input("Level of service? (good, fair, bad) ")
 tip_percent = 0
 
